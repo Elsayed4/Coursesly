@@ -1,0 +1,84 @@
+<svg id="calendar" xmlns="http://www.w3.org/2000/svg" width="26.379" height="26.379" viewBox="0 0 26.379 26.379">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a1afc3;
+      }
+    </style>
+  </defs>
+  <g id="Group_54481" data-name="Group 54481">
+    <g id="Group_54480" data-name="Group 54480">
+      <path id="Path_46125" data-name="Path 46125" class="cls-1" d="M23.288,2.061H22.051V0H19.99V2.061H6.389V0H4.328V2.061H3.091A3.1,3.1,0,0,0,0,5.152V23.288a3.1,3.1,0,0,0,3.091,3.091h20.2a3.1,3.1,0,0,0,3.091-3.091V5.152A3.1,3.1,0,0,0,23.288,2.061Zm1.03,21.227a1.032,1.032,0,0,1-1.03,1.03H3.091a1.032,1.032,0,0,1-1.03-1.03V9.686H24.318Zm0-15.662H2.061V5.152a1.032,1.032,0,0,1,1.03-1.03H4.328V6.183H6.389V4.122h13.6V6.183h2.061V4.122h1.237a1.032,1.032,0,0,1,1.03,1.03Z"/>
+    </g>
+  </g>
+  <g id="Group_54483" data-name="Group 54483" transform="translate(4.265 12.838)">
+    <g id="Group_54482" data-name="Group 54482" transform="translate(0 0)">
+      <rect id="Rectangle_10820" data-name="Rectangle 10820" class="cls-1" width="2" height="2" transform="translate(0.218 -0.355)"/>
+    </g>
+  </g>
+  <g id="Group_54485" data-name="Group 54485" transform="translate(7.94 12.838)">
+    <g id="Group_54484" data-name="Group 54484" transform="translate(0 0)">
+      <rect id="Rectangle_10821" data-name="Rectangle 10821" class="cls-1" width="2" height="2" transform="translate(-0.457 -0.355)"/>
+    </g>
+  </g>
+  <g id="Group_54487" data-name="Group 54487" transform="translate(12.837 12.838)">
+    <g id="Group_54486" data-name="Group 54486" transform="translate(0 0)">
+      <rect id="Rectangle_10822" data-name="Rectangle 10822" class="cls-1" width="2" height="2" transform="translate(-0.355 -0.355)"/>
+    </g>
+  </g>
+  <g id="Group_54489" data-name="Group 54489" transform="translate(16.511 12.838)">
+    <g id="Group_54488" data-name="Group 54488" transform="translate(0 0)">
+      <rect id="Rectangle_10823" data-name="Rectangle 10823" class="cls-1" width="1" height="2" transform="translate(-0.029 -0.355)"/>
+    </g>
+  </g>
+  <g id="Group_54491" data-name="Group 54491" transform="translate(20.186 12.838)">
+    <g id="Group_54490" data-name="Group 54490" transform="translate(0 0)">
+      <rect id="Rectangle_10824" data-name="Rectangle 10824" class="cls-1" width="2" height="2" transform="translate(0.297 -0.355)"/>
+    </g>
+  </g>
+  <g id="Group_54493" data-name="Group 54493" transform="translate(4.265 15.288)">
+    <g id="Group_54492" data-name="Group 54492" transform="translate(0 0)">
+      <rect id="Rectangle_10825" data-name="Rectangle 10825" class="cls-1" width="2" height="2" transform="translate(0.218 0.195)"/>
+    </g>
+  </g>
+  <g id="Group_54495" data-name="Group 54495" transform="translate(7.94 15.288)">
+    <g id="Group_54494" data-name="Group 54494" transform="translate(0 0)">
+      <rect id="Rectangle_10826" data-name="Rectangle 10826" class="cls-1" width="2" height="2" transform="translate(-0.457 0.195)"/>
+    </g>
+  </g>
+  <g id="Group_54497" data-name="Group 54497" transform="translate(12.837 15.288)">
+    <g id="Group_54496" data-name="Group 54496" transform="translate(0 0)">
+      <rect id="Rectangle_10827" data-name="Rectangle 10827" class="cls-1" width="2" height="2" transform="translate(-0.355 0.195)"/>
+    </g>
+  </g>
+  <g id="Group_54499" data-name="Group 54499" transform="translate(16.511 15.288)">
+    <g id="Group_54498" data-name="Group 54498" transform="translate(0 0)">
+      <rect id="Rectangle_10828" data-name="Rectangle 10828" class="cls-1" width="1" height="2" transform="translate(-0.029 0.195)"/>
+    </g>
+  </g>
+  <g id="Group_54501" data-name="Group 54501" transform="translate(4.265 20.186)">
+    <g id="Group_54500" data-name="Group 54500" transform="translate(0 0)">
+      <rect id="Rectangle_10829" data-name="Rectangle 10829" class="cls-1" width="2" height="2" transform="translate(0.218 0.297)"/>
+    </g>
+  </g>
+  <g id="Group_54503" data-name="Group 54503" transform="translate(7.94 20.186)">
+    <g id="Group_54502" data-name="Group 54502" transform="translate(0 0)">
+      <rect id="Rectangle_10830" data-name="Rectangle 10830" class="cls-1" width="2" height="2" transform="translate(-0.457 0.297)"/>
+    </g>
+  </g>
+  <g id="Group_54505" data-name="Group 54505" transform="translate(12.837 20.186)">
+    <g id="Group_54504" data-name="Group 54504" transform="translate(0 0)">
+      <rect id="Rectangle_10831" data-name="Rectangle 10831" class="cls-1" width="2" height="2" transform="translate(-0.355 0.297)"/>
+    </g>
+  </g>
+  <g id="Group_54507" data-name="Group 54507" transform="translate(16.511 20.186)">
+    <g id="Group_54506" data-name="Group 54506" transform="translate(0 0)">
+      <rect id="Rectangle_10832" data-name="Rectangle 10832" class="cls-1" width="1" height="2" transform="translate(-0.029 0.297)"/>
+    </g>
+  </g>
+  <g id="Group_54509" data-name="Group 54509" transform="translate(20.186 15.288)">
+    <g id="Group_54508" data-name="Group 54508" transform="translate(0 0)">
+      <rect id="Rectangle_10833" data-name="Rectangle 10833" class="cls-1" width="2" height="2" transform="translate(0.297 0.195)"/>
+    </g>
+  </g>
+</svg>
